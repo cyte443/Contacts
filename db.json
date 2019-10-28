@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "Nombre": "chema",
+    "Apellidos": "Orozco",
+    "Telefono": "4776814369"
+  },
+  {
+    "id": 2,
+    "Nombre": "Gibby",
+    "Apellidos": "Solis",
+    "Telefono": "4132798654"
+  },
+  {
+    "id": 3,
+    "Nombre": "Pancho",
+    "Apellidos": "Anguiano",
+    "Telefono": "6453219875"
+  },
+  {
+    "id": 4,
+    "Nombre": "Andres",
+    "Apellidos": "Serna",
+    "Telefono": "7896541323"
+  },
+  {
+    "id": 5,
+    "Nombre": "Monse",
+    "Apellidos": "Gonzalez",
+    "Telefonos": "3216547899"
+  }
+]
